@@ -1,0 +1,13 @@
+C:\RabbitMQ\API\bin\Debug\netcoreapp2.1\API.deps.json
+C:\RabbitMQ\API\bin\Debug\netcoreapp2.1\API.runtimeconfig.json
+C:\RabbitMQ\API\bin\Debug\netcoreapp2.1\API.runtimeconfig.dev.json
+C:\RabbitMQ\API\bin\Debug\netcoreapp2.1\API.dll
+C:\RabbitMQ\API\obj\Debug\netcoreapp2.1\API.csproj.CoreCompileInputs.cache
+C:\RabbitMQ\API\obj\Debug\netcoreapp2.1\API.RazorAssemblyInfo.cache
+C:\RabbitMQ\API\obj\Debug\netcoreapp2.1\API.RazorAssemblyInfo.cs
+C:\RabbitMQ\API\obj\Debug\netcoreapp2.1\API.AssemblyInfoInputs.cache
+C:\RabbitMQ\API\obj\Debug\netcoreapp2.1\API.AssemblyInfo.cs
+C:\RabbitMQ\API\obj\Debug\netcoreapp2.1\API.RazorTargetAssemblyInfo.cache
+C:\RabbitMQ\API\bin\Debug\netcoreapp2.1\API.pdb
+C:\RabbitMQ\API\obj\Debug\netcoreapp2.1\API.dll
+C:\RabbitMQ\API\obj\Debug\netcoreapp2.1\API.pdb

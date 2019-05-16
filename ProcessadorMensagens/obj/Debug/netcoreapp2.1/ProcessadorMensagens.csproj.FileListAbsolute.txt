@@ -1,0 +1,15 @@
+C:\RabbitMQ\ProcessadorMensagens\bin\Debug\netcoreapp2.1\ProcessadorMensagens.deps.json
+C:\RabbitMQ\ProcessadorMensagens\bin\Debug\netcoreapp2.1\ProcessadorMensagens.runtimeconfig.json
+C:\RabbitMQ\ProcessadorMensagens\bin\Debug\netcoreapp2.1\ProcessadorMensagens.runtimeconfig.dev.json
+C:\RabbitMQ\ProcessadorMensagens\bin\Debug\netcoreapp2.1\ProcessadorMensagens.dll
+C:\RabbitMQ\ProcessadorMensagens\obj\Debug\netcoreapp2.1\ProcessadorMensagens.csprojAssemblyReference.cache
+C:\RabbitMQ\ProcessadorMensagens\obj\Debug\netcoreapp2.1\ProcessadorMensagens.csproj.CoreCompileInputs.cache
+C:\RabbitMQ\ProcessadorMensagens\obj\Debug\netcoreapp2.1\ProcessadorMensagens.AssemblyInfoInputs.cache
+C:\RabbitMQ\ProcessadorMensagens\obj\Debug\netcoreapp2.1\ProcessadorMensagens.AssemblyInfo.cs
+C:\RabbitMQ\ProcessadorMensagens\obj\Debug\netcoreapp2.1\ProcessadorMensagens.csproj.CopyComplete
+C:\RabbitMQ\ProcessadorMensagens\bin\Debug\netcoreapp2.1\ProcessadorMensagens.pdb
+C:\RabbitMQ\ProcessadorMensagens\bin\Debug\netcoreapp2.1\API.dll
+C:\RabbitMQ\ProcessadorMensagens\bin\Debug\netcoreapp2.1\API.pdb
+C:\RabbitMQ\ProcessadorMensagens\obj\Debug\netcoreapp2.1\ProcessadorMensagens.dll
+C:\RabbitMQ\ProcessadorMensagens\obj\Debug\netcoreapp2.1\ProcessadorMensagens.pdb
+C:\RabbitMQ\ProcessadorMensagens\bin\Debug\netcoreapp2.1\appsettings.json
